@@ -3,6 +3,7 @@
 def capitaliser_pays(nom):
     # TODO completer la fonction
 
+    nom = "test"
     
     return nom
 
